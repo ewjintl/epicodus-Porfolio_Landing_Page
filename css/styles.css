@@ -1,12 +1,8 @@
-/* body {
-  background-image:url('img/koi.jpg');
-  background-repeat: repeat-x;
-}
-
 .container {
   background-image:url('img/koi.jpg');
-  background-repeat:no-repeat;
-} */
+  position: absolute;
+}
+
 
 img {
   width: 20%;
@@ -20,3 +16,6 @@ img {
  }
  
 
+.row {
+  position: relative;
+}
