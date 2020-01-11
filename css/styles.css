@@ -12,7 +12,7 @@ img {
   width: 20%;
   border-radius: 100%;
   transform: rotate(90deg);
-  text-align: left;
+  float: right;
  } 
 
  body {
