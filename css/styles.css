@@ -1,20 +1,20 @@
 .container {
-  background-image:url('img/koi.jpg');
-  position: absolute;
 }
 
-
+body {
+  background-image: url("img/koi.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: absolute;
+  background-size: cover;
+ }
+ 
 img {
   width: 20%;
   border-radius: 100%;
   transform: rotate(90deg);
-  float: right;
+  /* float: right; */
  } 
-
- body {
-   font-family: 'Courier New', Courier, monospace;
- }
- 
 
 .row {
   position: relative;
