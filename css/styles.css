@@ -1,21 +1,19 @@
-.container {
-}
-
 body {
   background-image: url("img/koi.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: absolute;
-  background-size: cover;
+  background-size: 100% auto;
  }
  
-img {
+.container { 
+  opacity: 80%;
+}
+
+.text {
+  float: left;
+}
+
+.headshot img{
   width: 20%;
   border-radius: 100%;
   transform: rotate(90deg);
-  /* float: right; */
+  float: right;
  } 
-
-.row {
-  position: relative;
-}
