@@ -4,7 +4,7 @@
 
 #### By _**Elliot Jordan**_
 
-#### Link: _<github-pages URL>_
+#### Link: _<https://ewjintl.github.io/epicodus-fridayProject01/>_
 
 ## Description
 
