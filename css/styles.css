@@ -19,7 +19,6 @@ li {
 .headshot img{
   width: 20%;
   border-radius: 100%;
-  transform: rotate(90deg);
   float: right;
   margin-top: auto;
  } 
